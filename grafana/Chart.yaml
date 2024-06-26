@@ -1,0 +1,17 @@
+apiVersion: v2
+appVersion: 11.0.0
+description: The leading tool for querying and visualizing time series and metrics.
+home: https://grafana.com
+keywords:
+- monitoring
+- metric
+kubeVersion: ^1.8.0-0
+maintainers:
+- email: shahenvaz.khan@nashtechglobal.com
+  name: Mohd Shahenvaz Khan
+name: grafana
+sources:
+- https://github.com/grafana/grafana
+- https://github.com/grafana/helm-charts
+type: application
+version: 8.0.1
